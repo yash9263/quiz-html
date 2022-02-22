@@ -1,0 +1,9 @@
+html,
+body {
+  background: var(--color-danger-100);
+  height: unset;
+  min-height: 100%;
+}
+:root {
+  --box-shadow-color: hsla(5, 82%, 90%, 0.4);
+}

@@ -1,0 +1,6 @@
+.quiz-nav {
+  background: var(--color-danger-100);
+}
+.quiz-nav .ex-nav-logo {
+  font-size: 2rem;
+}

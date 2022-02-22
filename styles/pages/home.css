@@ -1,0 +1,29 @@
+.quiz-main {
+  max-width: 926px;
+  margin: 0 auto;
+  padding: 16px 32px;
+}
+@media screen and (max-width: 34.37rem) {
+  .quiz-main {
+    padding: 16px;
+  }
+}
+.quiz-category {
+  padding-bottom: 16px;
+}
+.category-heading {
+  text-align: center;
+}
+.category-quizzes {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 16px;
+  gap: 16px;
+}
+.img-cont {
+  width: 100%;
+}
+.img-cont .card-img {
+  aspect-ratio: 16 / 9;
+}
