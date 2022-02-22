@@ -2,6 +2,8 @@
 
 Html template for the quiz app
 
+<img src="https://res.cloudinary.com/yashwant9263/image/upload/v1645556224/Camp/ecommerce/home/Kapture_2022-02-23_at_00.25.43_g1fbzd.gif"  />
+
 ## Run locally
 
 ```
