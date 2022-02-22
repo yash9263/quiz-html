@@ -4,3 +4,8 @@
 .quiz-nav .ex-nav-logo {
   font-size: 2rem;
 }
+
+.ex-nav-items {
+  flex-wrap: wrap;
+  gap: 12px 24px;
+}
